@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gwtf3m.juragan89.online/sitemap.xml
